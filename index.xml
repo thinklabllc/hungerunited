@@ -6,7 +6,27 @@
     <description>Recent content on Hunger United</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comal Crackers</title>
+      <link>http://example.org/posts/comal_crackers/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/comal_crackers/</guid>
+      <description>Comal Crackers
+Comal is type of griddle/ round flat pan to heat up / cook certain types of things over a stove instead of oven.
+Originally I was making coconut crepes and another gluten free vegan crepe batter that is from my upbringing, then it lead to me experimenting to see what I can do with the batter instead of using loads more oil ( i was able to use a stainless steel pot to prepare the crêpes instead of a nonstick pan using a method with oil to make a stainless steel pot nonstick,that led to the crepes frying instead of cooking the way its supposed to, but it was crispy and yummy like I like it but too oily for me.</description>
+    </item>
+    
+    <item>
+      <title>Sourdough Starters and How to Control Sourness</title>
+      <link>http://example.org/posts/sourdough_starters_and_how_to_control_sourness/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sourdough_starters_and_how_to_control_sourness/</guid>
+      <description>How to make your own sourdough starter, and how to control the sourness of your starter.</description>
+    </item>
+    
     <item>
       <title>Homemade Oreo Cookies</title>
       <link>http://example.org/posts/homemade_oreos/</link>
